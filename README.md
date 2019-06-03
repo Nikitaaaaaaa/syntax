@@ -1,1 +1,1 @@
-# syntax
+# I studu python
