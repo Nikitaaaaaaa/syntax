@@ -1,1 +1,1 @@
-# I stydu python
+# I study python
